@@ -1,0 +1,15 @@
+{
+    "name": "user/unfold-master",
+    "autoload": {
+        "psr-4": {
+            "User\\UnfoldMaster\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Imam Azmi",
+            "email": "imamazmi33@gmail.com"
+        }
+    ],
+    "require": {}
+}
